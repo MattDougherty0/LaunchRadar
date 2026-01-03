@@ -6,8 +6,11 @@ export async function register() {
     // Server-side: ensure localStorage is properly mocked
     const globalAny = global as any;
     
-    // Only create mock if localStorage exists but is broken
-    if (globalAny.localStorage && typeof globalAny.localStorage.getItem !== 'function') {
+    // Create a proper localStorage mock if it doesn't exist or is broken
+    const needsMock = !globalAny.localStorage || 
+                      typeof globalAny.localStorage.getItem !== 'function';
+    
+    if (needsMock) {
       const storage = new Map<string, string>();
       
       globalAny.localStorage = {
