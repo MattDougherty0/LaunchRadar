@@ -1,0 +1,39 @@
+{
+  "competitor": "stripe",
+  "updates": [
+    {
+      "title": "Adds the ability to provide proof-of-address documents for connected accounts",
+      "date": "2025-07-10",
+      "description": "Adds the ability to provide proof-of-address documents for connected accounts",
+      "tags": [
+        "Connect"
+      ],
+      "confidence": 0.7,
+      "metadata": {
+        "sourceSection": "stripe-fallback-entry",
+        "affectedServices": [
+          "Connect"
+        ]
+      },
+      "type": "feature",
+      "url": "https://docs.stripe.com/changelog"
+    },
+    {
+      "title": "Adds more flexible schedules for monthly and weekly payouts",
+      "date": "2025-07-10",
+      "description": "Adds more flexible schedules for monthly and weekly payouts",
+      "tags": [],
+      "confidence": 0.7,
+      "metadata": {
+        "sourceSection": "stripe-fallback-entry",
+        "affectedServices": [
+          "Stripe API"
+        ]
+      },
+      "type": "feature",
+      "url": "https://docs.stripe.com/changelog"
+    }
+  ],
+  "lastScraped": "2025-07-10T22:54:04.523Z",
+  "success": true
+}

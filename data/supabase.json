@@ -1,0 +1,621 @@
+{
+  "competitor": "supabase",
+  "updates": [
+    {
+      "title": "How to test for Deno 2 compatibility#",
+      "date": "2025-07-10",
+      "description": "A couple of months ago, we started migrating our Edge Functions platform to use Deno 2.1. Deno 2 bridges the gap between Node and Deno by supporting Node's built-in APIs, npm modules, and package.json. This would make it easy to migrate existing Node apps to run in the Edge Functions platform.",
+      "tags": [
+        "Edge Functions",
+        "API"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "API"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Tabs for Table and SQL Editor#",
+      "date": "2025-07-10",
+      "description": "[!NOTE]\r\nThis change has now been fully rolled out - thank you everyone for the feedback! 🙏",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Project scoped roles#",
+      "date": "2025-07-10",
+      "description": "Here’s everything that happened with Supabase in the last month:",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Sort columns in the Table Editor through the column header#",
+      "date": "2025-07-10",
+      "description": "We've integrated the sorting functionality into the column menu - and these will dynamically update based on the current sort state of the column!",
+      "tags": [
+        "Edge Functions"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "(Upcoming) Dashboard layout update for organizations#",
+      "date": "2025-07-10",
+      "description": "",
+      "tags": [
+        "Dashboard"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Dashboard"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Supabase MCP Server#",
+      "date": "2025-07-10",
+      "description": "Here’s a recap of everything we announced during Launch Week and the month of March:",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Manage your Edge Functions directly from the dashboard#",
+      "date": "2025-07-10",
+      "description": "What better way to wrap up Launch Week 14 than a summary of what was shipped to the dashboard (as well as several other goodies that we also shipped behind the scenes 😉)",
+      "tags": [
+        "Edge Functions",
+        "Dashboard"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "Dashboard"
+        ]
+      },
+      "type": "feature",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Why Dedicated Poolers#",
+      "date": "2025-07-10",
+      "description": "Today we’re announcing the official release of Dedicated Pooler - a PgBouncer instance co-located with your Postgres database for lower latency, better performance, and higher reliability.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "performance",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Why are we making these restrictions?#",
+      "date": "2025-07-10",
+      "description": "On April 21, we are restricting certain SQL actions you can perform in your database’s auth, storage, and realtime schemas.",
+      "tags": [
+        "Database",
+        "Auth",
+        "Storage",
+        "Realtime"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Database",
+          "Auth",
+          "Storage",
+          "Realtime"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Deploy Edge Functions from the Supabase dashboard#",
+      "date": "2025-07-10",
+      "description": "Here’s everything that happened with Supabase in the last month:",
+      "tags": [
+        "Edge Functions",
+        "Dashboard"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "Dashboard"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "How to try#",
+      "date": "2025-07-10",
+      "description": "You can now try Deno 2.1 locally with Supabase CLI. The goal of local preview is to identify any regressions or missing functionality before we upgrade hosted version to Deno 2.1.",
+      "tags": [
+        "Edge Functions",
+        "CLI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "CLI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Inline Editor (Feature Preview)#",
+      "date": "2025-07-10",
+      "description": "",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Deploy an Edge Function#",
+      "date": "2025-07-10",
+      "description": "We have introduced two new API endpoints that allow you to deploy and update Edge Functions programmatically. This will be handy if you're building a Supabase integration or want to create an internal workflow without relying on Supabase CLI.",
+      "tags": [
+        "Edge Functions",
+        "CLI",
+        "API"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "CLI",
+          "API"
+        ]
+      },
+      "type": "feature",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Write and run queries from anywhere in the dashboard#",
+      "date": "2025-07-10",
+      "description": "https://github.com/user-attachments/assets/5951fbb2-3db7-48e5-b4fa-7c83fbad3d2d",
+      "tags": [
+        "Dashboard"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Dashboard"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Quick video demo#",
+      "date": "2025-07-10",
+      "description": "[!NOTE]\r\nThis change has now been fully rolled out - thank you everyone for the feedback! 🙏",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "How to use#",
+      "date": "2025-07-10",
+      "description": "We've introduced an experimental flag to the Supabase CLI, which allows you to deploy Edge Functions without running Docker.",
+      "tags": [
+        "Edge Functions",
+        "CLI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "CLI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Deploy Edge Functions via the Assistant#",
+      "date": "2025-07-10",
+      "description": "https://github.com/user-attachments/assets/c567ecc2-8eed-4589-b077-f578ceaeb562",
+      "tags": [
+        "Edge Functions"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Third-party Auth with Firebase is now GA#",
+      "date": "2025-07-10",
+      "description": "Here’s everything that happened with Supabase in the last month:",
+      "tags": [
+        "Auth"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Auth"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Why are we deprecating this offering?#",
+      "date": "2025-07-10",
+      "description": "Supabase is deprecating Fly’s Postgres offering managed by Supabase on April 11, 2025.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Log charts now show stacked charts with total warnings and errors#",
+      "date": "2025-07-10",
+      "description": "",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Supabase Integrations Page#",
+      "date": "2025-07-10",
+      "description": "Welcome to 2025. Here’s everything that happened with Supabase in the last month:",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Quick Example#",
+      "date": "2025-07-10",
+      "description": "TypeScript users, here's a cool new feature! Starting from v2.48.0, defining custom types for JSON fields in supabase-js and using them with the JSON selector is now easier, making your code more type-safe and intuitive.",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Use cases#",
+      "date": "2025-07-10",
+      "description": "Supabase CLI 2.7.0 adds support for bundling Edge Functions with static files.",
+      "tags": [
+        "Edge Functions",
+        "CLI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "CLI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "UI Overhaul for Log Explorer log details#",
+      "date": "2025-07-10",
+      "description": "https://github.com/user-attachments/assets/1f752ebc-a814-4f1c-845f-4659a0dc87d3",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Improved mobile navigation for the dashboard#",
+      "date": "2025-07-10",
+      "description": "https://github.com/user-attachments/assets/a2e1c815-6d65-486f-ae77-1d5993377c40",
+      "tags": [
+        "Dashboard"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Dashboard"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Dashboard Integrations#",
+      "date": "2025-07-10",
+      "description": "Launch Week 13 has wrapped up and it's now the holiday season! 🎄🎁 If you might have missed our launches last week - fret not! We've got you covered with a brief summary of the changes that landed in the dashboard right here 🙂",
+      "tags": [
+        "Dashboard"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Dashboard"
+        ]
+      },
+      "type": "feature",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Table Editor Performance Improvements#",
+      "date": "2025-07-10",
+      "description": "We've set aside some time to look into improving the performance of the Table Editor over the past few weeks, in particular shortening both perceived and actual loading times as you navigate around the Table Editor. This all comes together in several PRs as we explored from 2 angles:",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Notable issues resolved:#",
+      "date": "2025-07-10",
+      "description": "🚀 Announcement: We’ve just released supabase-js version 2.46.2-rc.3, which resolves several type errors in the PostgREST client.",
+      "tags": [
+        "Database",
+        "CLI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Database",
+          "CLI"
+        ]
+      },
+      "type": "bugfix",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "How to use deno.json#",
+      "date": "2025-07-10",
+      "description": "Each Edge Function can now have its own deno.json or deno.jsonc file to manage dependencies. You will need to deploy your functions using Supabase CLI version v1.215.0 or above to make use of this feature.",
+      "tags": [
+        "Edge Functions",
+        "CLI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "CLI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Spam validation check now added to Auth templates#",
+      "date": "2025-07-10",
+      "description": "",
+      "tags": [
+        "Auth"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Auth"
+        ]
+      },
+      "type": "feature",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "How to use packages from private registries#",
+      "date": "2025-07-10",
+      "description": "Edge Functions now support importing NPM packages from private registries. You will need to deploy your functions using Supabase CLI version v1.207.9 or above to make use of this feature.",
+      "tags": [
+        "Edge Functions",
+        "CLI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "CLI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Disk size usage section under organization settings#",
+      "date": "2025-07-10",
+      "description": "We've added a new disk size section for paid plans to give a quick overview of each project under the organization and their respective disk sizes for better visibility over the corresponding charges. This is only an initial iteration for this UI, we do plan to add historical statistics and more to improve visibility and transparency over what you're using and what you're paying for 🙂",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Supabase + Vercel Partnership#",
+      "date": "2025-07-10",
+      "description": "We’ve announced a Vercel partnership, we’re hosting an AI hackathon with our friends at Y Combinator, and we raised $80M. Let’s dive right in:",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Why?#",
+      "date": "2025-07-10",
+      "description": "We improved the information architecture (IA) on our docs site.",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Improved users management UI#",
+      "date": "2025-07-10",
+      "description": "",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Supabase Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    },
+    {
+      "title": "Summary#",
+      "date": "2025-07-10",
+      "description": "Returning XHTML responses from the Data APIs and Edge Functions is now only allowed if a Custom Domain is being used.",
+      "tags": [
+        "Edge Functions",
+        "API"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "supabase-changelog",
+        "affectedServices": [
+          "Edge Functions",
+          "API"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://supabase.com/changelog"
+    }
+  ],
+  "lastScraped": "2025-07-10T23:51:01.407Z",
+  "success": true
+}

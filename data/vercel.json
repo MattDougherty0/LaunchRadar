@@ -1,0 +1,473 @@
+{
+  "competitor": "vercel",
+  "updates": [
+    {
+      "title": "Vercel Blob now available in all Vercel Regions",
+      "date": "Jul 10, 2025",
+      "description": "You can now create Vercel Blob stores in any of the 19 Vercel Regions.",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "vercel-changelog",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Web Application Firewall control now available with vercel.json",
+      "date": "Jul 9, 2025",
+      "description": "You can now control Vercel’s Web Application Firewall (WAF) actions directly in vercel.json, alongside existing support in the dashboard, API, and terraform.",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "vercel-changelog",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "v0 Platform API now in beta",
+      "date": "Jul 9, 2025",
+      "description": "The v0 Platform API is now available in public beta. The v0 Platform API is a text-to-app API — it provides programmatic access to v0’s app generation pipeline:",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "vercel-changelog",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Frameworks\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  ...",
+      "date": "2025-07-10",
+      "description": "Frameworks\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  Next.jsThe native Next.js platform\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  TurborepoSpeed with Enterprise scaleAI SDKThe AI Toolkit for TypeScript",
+      "tags": [
+        "Next.js"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Next.js"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Next.jsThe native Next.js platform",
+      "date": "2025-07-10",
+      "description": "Next.jsThe native Next.js platform",
+      "tags": [
+        "Next.js"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Next.js"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "The native Next.js platform",
+      "date": "2025-07-10",
+      "description": "The native Next.js platform",
+      "tags": [
+        "Next.js"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Next.js"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "SolutionsUse Cases\n  \n  AI AppsDeploy at the speed of AIComposable CommercePower storefronts that co...",
+      "date": "2025-07-10",
+      "description": "SolutionsUse Cases\n  \n  AI AppsDeploy at the speed of AIComposable CommercePower storefronts that convertMarketing SitesLaunch campaigns fastMulti-tenant PlatformsScale apps with one codebaseWeb AppsShip features, not infrastructureUsersPlatform EngineersAutomate away repetition\n\n\n\nDesign EngineersDeploy for every idea",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Use Cases\n  \n  AI AppsDeploy at the speed of AIComposable CommercePower storefronts that convertMark...",
+      "date": "2025-07-10",
+      "description": "Use Cases\n  \n  AI AppsDeploy at the speed of AIComposable CommercePower storefronts that convertMarketing SitesLaunch campaigns fastMulti-tenant PlatformsScale apps with one codebaseWeb AppsShip features, not infrastructureUsersPlatform EngineersAutomate away repetition\n\n\n\nDesign EngineersDeploy for every idea",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Use Cases\n  \n  AI AppsDeploy at the speed of AIComposable CommercePower storefronts that convertMark...",
+      "date": "2025-07-10",
+      "description": "Use Cases\n  \n  AI AppsDeploy at the speed of AIComposable CommercePower storefronts that convertMarketing SitesLaunch campaigns fastMulti-tenant PlatformsScale apps with one codebaseWeb AppsShip features, not infrastructure",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "AI AppsDeploy at the speed of AI",
+      "date": "2025-07-10",
+      "description": "AI AppsDeploy at the speed of AI",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Deploy at the speed of AI",
+      "date": "2025-07-10",
+      "description": "Deploy at the speed of AI",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "UsersPlatform EngineersAutomate away repetition\n\n\n\nDesign EngineersDeploy for every idea",
+      "date": "2025-07-10",
+      "description": "UsersPlatform EngineersAutomate away repetition\n\n\n\nDesign EngineersDeploy for every idea",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Design EngineersDeploy for every idea",
+      "date": "2025-07-10",
+      "description": "Design EngineersDeploy for every idea",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Deploy for every idea",
+      "date": "2025-07-10",
+      "description": "Deploy for every idea",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "ResourcesToolsResource CenterToday’s best practicesMarketplaceExtend and automate workflowsTemplates...",
+      "date": "2025-07-10",
+      "description": "ResourcesToolsResource CenterToday’s best practicesMarketplaceExtend and automate workflowsTemplatesJumpstart app developmentGuidesFind help quicklyPartner FinderGet help from solution partnersCompanyCustomersTrusted by the best teamsBlogThe latest posts and changesChangelogSee what shippedPressRead the latest newsEventsJoin us at an event",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "ToolsResource CenterToday’s best practicesMarketplaceExtend and automate workflowsTemplatesJumpstart...",
+      "date": "2025-07-10",
+      "description": "ToolsResource CenterToday’s best practicesMarketplaceExtend and automate workflowsTemplatesJumpstart app developmentGuidesFind help quicklyPartner FinderGet help from solution partnersCompanyCustomersTrusted by the best teamsBlogThe latest posts and changesChangelogSee what shippedPressRead the latest newsEventsJoin us at an event",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "CompanyCustomersTrusted by the best teamsBlogThe latest posts and changesChangelogSee what shippedPr...",
+      "date": "2025-07-10",
+      "description": "CompanyCustomersTrusted by the best teamsBlogThe latest posts and changesChangelogSee what shippedPressRead the latest newsEventsJoin us at an event",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "PressRead the latest news",
+      "date": "2025-07-10",
+      "description": "PressRead the latest news",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "You can now create Vercel Blob stores in any of the 19 Vercel Regions.Selecting a region closer to y...",
+      "date": "2025-07-10",
+      "description": "You can now create Vercel Blob stores in any of the 19 Vercel Regions.Selecting a region closer to your Functions and users allows you to optimize upload speed and comply with data-residency requirements when required.Selecting a region is available at creation time in the Vercel dashboard or when using the Vercel CLI (version 44.3.0).Learn more about Vercel Blob in the documentation.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Selecting a region closer to your Functions and users allows you to optimize upload speed and comply...",
+      "date": "2025-07-10",
+      "description": "Selecting a region closer to your Functions and users allows you to optimize upload speed and comply with data-residency requirements when required.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Link with a rendered preview",
+      "date": "2025-07-10",
+      "description": "Link with a rendered preview",
+      "tags": [
+        "Preview"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Preview"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "This API also supports programmatic control of v0.dev, including creating and managing both chats an...",
+      "date": "2025-07-10",
+      "description": "This API also supports programmatic control of v0.dev, including creating and managing both chats and projects. We'll be bringing more of v0.dev's functionality into the Platform API soon.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Vercel Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Ready to deploy? Start building with a free account. Speak to an expert for your Pro or Enterprise n...",
+      "date": "2025-07-10",
+      "description": "Ready to deploy? Start building with a free account. Speak to an expert for your Pro or Enterprise needs.Start DeployingTalk to an ExpertExplore Vercel Enterprise with an interactive product tour, trial, or a personalized demo.Explore Enterprise",
+      "tags": [
+        "Deployment",
+        "Build System"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment",
+          "Build System"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Ready to deploy? Start building with a free account. Speak to an expert for your Pro or Enterprise n...",
+      "date": "2025-07-10",
+      "description": "Ready to deploy? Start building with a free account. Speak to an expert for your Pro or Enterprise needs.Start DeployingTalk to an Expert",
+      "tags": [
+        "Deployment",
+        "Build System"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment",
+          "Build System"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Ready to deploy? Start building with a free account. Speak to an expert for your Pro or Enterprise n...",
+      "date": "2025-07-10",
+      "description": "Ready to deploy? Start building with a free account. Speak to an expert for your Pro or Enterprise needs.",
+      "tags": [
+        "Deployment",
+        "Build System"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment",
+          "Build System"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "Start DeployingTalk to an Expert",
+      "date": "2025-07-10",
+      "description": "Start DeployingTalk to an Expert",
+      "tags": [
+        "Deployment"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Deployment"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "ProductsAIEnterpriseFluid ComputeNext.jsObservabilityPreviewsRenderingSecurityTurbov0ResourcesCommun...",
+      "date": "2025-07-10",
+      "description": "ProductsAIEnterpriseFluid ComputeNext.jsObservabilityPreviewsRenderingSecurityTurbov0ResourcesCommunityDocsGuidesHelpIntegrationsPricingResourcesSolution PartnersStartupsTemplatesCompanyAboutBlogCareersChangelogEventsContact UsCustomersPartnersPrivacy PolicyLegalSocialGitHubLinkedIn TwitterYouTube",
+      "tags": [
+        "Next.js",
+        "Preview"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Next.js",
+          "Preview"
+        ]
+      },
+      "type": "security",
+      "url": "https://vercel.com/changelog"
+    },
+    {
+      "title": "ProductsAIEnterpriseFluid ComputeNext.jsObservabilityPreviewsRenderingSecurityTurbov0",
+      "date": "2025-07-10",
+      "description": "ProductsAIEnterpriseFluid ComputeNext.jsObservabilityPreviewsRenderingSecurityTurbov0",
+      "tags": [
+        "Next.js",
+        "Preview"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "vercel-fallback-entry",
+        "affectedServices": [
+          "Next.js",
+          "Preview"
+        ]
+      },
+      "type": "security",
+      "url": "https://vercel.com/changelog"
+    }
+  ],
+  "lastScraped": "2025-07-10T23:51:01.406Z",
+  "success": true
+}

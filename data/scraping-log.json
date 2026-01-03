@@ -1,0 +1,95 @@
+[
+  {
+    "timestamp": "2025-07-10T23:51:04.436Z",
+    "totalCompanies": 5,
+    "successfulScrapes": 1,
+    "failedScrapes": 4,
+    "totalUpdates": 56,
+    "companies": [
+      {
+        "name": "vercel",
+        "success": false,
+        "updates": 0,
+        "error": "request to http://localhost:3000/api/scrape?company=vercel failed, reason: socket hang up"
+      },
+      {
+        "name": "supabase",
+        "success": false,
+        "updates": 0,
+        "error": "request to http://localhost:3000/api/scrape?company=supabase failed, reason: "
+      },
+      {
+        "name": "figma",
+        "success": false,
+        "updates": 0,
+        "error": "request to http://localhost:3000/api/scrape?company=figma failed, reason: "
+      },
+      {
+        "name": "notion",
+        "success": false,
+        "updates": 0,
+        "error": "request to http://localhost:3000/api/scrape?company=notion failed, reason: "
+      },
+      {
+        "name": "gumroad",
+        "success": true,
+        "updates": 56,
+        "error": null
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-10T23:45:20.668Z",
+    "totalCompanies": 5,
+    "successfulScrapes": 0,
+    "failedScrapes": 5,
+    "totalUpdates": 0,
+    "companies": [
+      {
+        "name": "vercel",
+        "success": false,
+        "updates": 0,
+        "error": "Cannot find package 'node-fetch' imported from /Users/mattdougherty/Desktop/Old Projects/LaunchRadar/daily-scraper.js"
+      },
+      {
+        "name": "supabase",
+        "success": false,
+        "updates": 0,
+        "error": "Cannot find package 'node-fetch' imported from /Users/mattdougherty/Desktop/Old Projects/LaunchRadar/daily-scraper.js"
+      },
+      {
+        "name": "figma",
+        "success": false,
+        "updates": 0,
+        "error": "Cannot find package 'node-fetch' imported from /Users/mattdougherty/Desktop/Old Projects/LaunchRadar/daily-scraper.js"
+      },
+      {
+        "name": "notion",
+        "success": false,
+        "updates": 0,
+        "error": "Cannot find package 'node-fetch' imported from /Users/mattdougherty/Desktop/Old Projects/LaunchRadar/daily-scraper.js"
+      },
+      {
+        "name": "gumroad",
+        "success": false,
+        "updates": 0,
+        "error": "Cannot find package 'node-fetch' imported from /Users/mattdougherty/Desktop/Old Projects/LaunchRadar/daily-scraper.js"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-10T23:31:39.319Z",
+    "totalCompanies": 1,
+    "successfulScrapes": 0,
+    "failedScrapes": 1,
+    "totalUpdates": 0,
+    "companies": [
+      {
+        "name": "gumroad",
+        "success": false,
+        "updates": 0,
+        "error": "Cannot read properties of undefined (reading 'length')"
+      }
+    ]
+  }
+]

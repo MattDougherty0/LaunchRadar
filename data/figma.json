@@ -1,0 +1,1490 @@
+{
+  "competitor": "figma",
+  "updates": [
+    {
+      "title": "New feature: Apex domains and custom subdomains in Figma Sites",
+      "date": "Jul 9, 2025",
+      "description": "Figma Sites now supports apex domains and custom subdomains so that you have more options for personalizing your URL.",
+      "tags": [
+        "Figma Sites",
+        "AI"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "Figma Sites",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Improved control with new updates to grid beta",
+      "date": "Jul 8, 2025",
+      "description": "Introducing new updates to grid that offers more precision and control:",
+      "tags": [
+        "Layout"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "Layout"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Dev Mode MCP Server Updates: Annotations and Code Connect Snippets",
+      "date": "Jul 1, 2025",
+      "description": "We recently updated the get_code tool in our MCP server to support the following:",
+      "tags": [
+        "Dev Mode"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "Dev Mode"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Variable width strokes",
+      "date": "Jun 26, 2025",
+      "description": "You can now adjust the width of your stroke at any given point along a path with the new variable width stroke vector editing tool. Available in Figma Draw and Figma Design. Learn more in this help center article.",
+      "tags": [
+        "Design",
+        "Figma Draw",
+        "AI"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "Design",
+          "Figma Draw",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Bring a consistent look and feel to your Figma Make prototypes and web apps",
+      "date": "Jun 25, 2025",
+      "description": "You can now bring styling context from an existing library into Make, and specify additional rules for your Make to follow.",
+      "tags": [
+        "Prototyping"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "Prototyping"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Never miss a beat with browser notifications from Figma",
+      "date": "Jun 18, 2025",
+      "description": "You can now opt-in to receive push notifications from Figma in your browser, the same way you do in Figma’s desktop app. Once you allow Figma to send you notifications in the browser, you will be alerted to comment replies, @ mentions in comments, and @ mentions in the file (i.e. on a sticky in FigJam) in real time.",
+      "tags": [
+        "FigJam"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "FigJam"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "New feature: Code layers in Figma Sites",
+      "date": "Jun 12, 2025",
+      "description": "You can now add custom interactions and animations to your Figma Sites using code layers.",
+      "tags": [
+        "Figma Sites"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "Figma Sites"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Dev Mode MCP Server in beta",
+      "date": "Jun 4, 2025",
+      "description": "Introducing the official Figma Dev Mode MCP server. Users can now bring design information directly into their code editors, like Cursor, VS Code with Copilot, Windsurf, and Claude Code, to help AI agents achieve design-informed code generation. With this new MCP server you can now:",
+      "tags": [
+        "Design",
+        "Dev Mode",
+        "AI"
+      ],
+      "confidence": 0.9,
+      "metadata": {
+        "sourceSection": "figma-release-notes",
+        "affectedServices": [
+          "Design",
+          "Dev Mode",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma DesignDesign and prototype in one place",
+      "date": "2025-07-10",
+      "description": "Figma DesignDesign and prototype in one place",
+      "tags": [
+        "Design",
+        "Prototyping"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Prototyping"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Design and prototype in one place",
+      "date": "2025-07-10",
+      "description": "Design and prototype in one place",
+      "tags": [
+        "Design",
+        "Prototyping"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Prototyping"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Dev ModeTranslate designs into code",
+      "date": "2025-07-10",
+      "description": "Dev ModeTranslate designs into code",
+      "tags": [
+        "Design",
+        "Dev Mode"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Dev Mode"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Translate designs into code",
+      "date": "2025-07-10",
+      "description": "Translate designs into code",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "FigJamCollaborate with a digital whiteboard",
+      "date": "2025-07-10",
+      "description": "FigJamCollaborate with a digital whiteboard",
+      "tags": [
+        "FigJam"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "FigJam"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma SlidesCo-create presentations",
+      "date": "2025-07-10",
+      "description": "Figma SlidesCo-create presentations",
+      "tags": [
+        "Figma Slides"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Slides"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma DrawNewIllustrate with advanced vector tools",
+      "date": "2025-07-10",
+      "description": "Figma DrawNewIllustrate with advanced vector tools",
+      "tags": [
+        "Figma Draw"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Draw"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma BuzzBetaProduce on-brand assets at scale",
+      "date": "2025-07-10",
+      "description": "Figma BuzzBetaProduce on-brand assets at scale",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma SitesBetaPublish fully responsive websites",
+      "date": "2025-07-10",
+      "description": "Figma SitesBetaPublish fully responsive websites",
+      "tags": [
+        "Figma Sites"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Sites"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma MakeBetaPrompt to code anything you can imagine",
+      "date": "2025-07-10",
+      "description": "Figma MakeBetaPrompt to code anything you can imagine",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "AIExplore all Figma AI features",
+      "date": "2025-07-10",
+      "description": "AIExplore all Figma AI features",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Explore all Figma AI features",
+      "date": "2025-07-10",
+      "description": "Explore all Figma AI features",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrate...",
+      "date": "2025-07-10",
+      "description": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationFigma for Government",
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "AI"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrate...",
+      "date": "2025-07-10",
+      "description": "Use casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgile",
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "AI"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Design systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetings",
+      "date": "2025-07-10",
+      "description": "Design systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetings",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Strategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgile",
+      "date": "2025-07-10",
+      "description": "Strategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgile",
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "AI"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "RolesDesignEngineeringProduct managers",
+      "date": "2025-07-10",
+      "description": "RolesDesignEngineeringProduct managers",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "DesignEngineeringProduct managers",
+      "date": "2025-07-10",
+      "description": "DesignEngineeringProduct managers",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "OrganizationsEnterpriseEducationFigma for Government",
+      "date": "2025-07-10",
+      "description": "OrganizationsEnterpriseEducationFigma for Government",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "EnterpriseEducationFigma for Government",
+      "date": "2025-07-10",
+      "description": "EnterpriseEducationFigma for Government",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "EventsLearn best practices at virtual eventsCustomer storiesRead about leading product teamsUser gro...",
+      "date": "2025-07-10",
+      "description": "EventsLearn best practices at virtual eventsCustomer storiesRead about leading product teamsUser groupsJoin a local Friends of Figma group",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "User groupsJoin a local Friends of Figma group",
+      "date": "2025-07-10",
+      "description": "User groupsJoin a local Friends of Figma group",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Join a local Friends of Figma group",
+      "date": "2025-07-10",
+      "description": "Join a local Friends of Figma group",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Shortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsU...",
+      "date": "2025-07-10",
+      "description": "Shortcut: The Figma blogStories about how products take shape—and shape our worldGet startedPluginsUI kitsIconsWidgetsTemplatesDeveloper docsPartnersSee allLearnBest practicesReports & insightsResource libraryDemosWebinarsHelp center",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Shortcut: The Figma blogStories about how products take shape—and shape our world",
+      "date": "2025-07-10",
+      "description": "Shortcut: The Figma blogStories about how products take shape—and shape our world",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Shortcut: The Figma blog",
+      "date": "2025-07-10",
+      "description": "Shortcut: The Figma blog",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "ProductsFigma DesignDesign and prototype in one placeDev ModeTranslate designs into codeFigJamCollab...",
+      "date": "2025-07-10",
+      "description": "ProductsFigma DesignDesign and prototype in one placeDev ModeTranslate designs into codeFigJamCollaborate with a digital whiteboardFigma SlidesCo-create presentationsFigma DrawNewIllustrate with advanced vector toolsFigma BuzzBetaProduce on-brand assets at scaleFigma SitesBetaPublish fully responsive websitesFigma MakeBetaPrompt to code anything you can imagineAIDownloadsRelease Notes",
+      "tags": [
+        "Design",
+        "Prototyping",
+        "FigJam",
+        "Dev Mode",
+        "Figma Sites",
+        "Figma Slides",
+        "Figma Draw",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Prototyping",
+          "FigJam",
+          "Dev Mode",
+          "Figma Sites",
+          "Figma Slides",
+          "Figma Draw",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma DesignDesign and prototype in one placeDev ModeTranslate designs into codeFigJamCollaborate wi...",
+      "date": "2025-07-10",
+      "description": "Figma DesignDesign and prototype in one placeDev ModeTranslate designs into codeFigJamCollaborate with a digital whiteboardFigma SlidesCo-create presentationsFigma DrawNewIllustrate with advanced vector toolsFigma BuzzBetaProduce on-brand assets at scaleFigma SitesBetaPublish fully responsive websitesFigma MakeBetaPrompt to code anything you can imagineAIDownloadsRelease Notes",
+      "tags": [
+        "Design",
+        "Prototyping",
+        "FigJam",
+        "Dev Mode",
+        "Figma Sites",
+        "Figma Slides",
+        "Figma Draw",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Prototyping",
+          "FigJam",
+          "Dev Mode",
+          "Figma Sites",
+          "Figma Slides",
+          "Figma Draw",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "SolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meeti...",
+      "date": "2025-07-10",
+      "description": "SolutionsUse casesDesign systemsPrototypingUX designWeb designWireframingOnline whiteboardTeam meetingsStrategic planningBrainstormingDiagrammingProduct developmentWeb developmentDesign handoffAgileRolesDesignEngineeringProduct managersOrganizationsEnterpriseEducationFigma for Government",
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "AI"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Release NotesKeep up with Figma’s latest product news, or subscribe to RSS to be the first to know w...",
+      "date": "2025-07-10",
+      "description": "Release NotesKeep up with Figma’s latest product news, or subscribe to RSS to be the first to know when new releases and updates go live.Copy RSS feed URL",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Release NotesKeep up with Figma’s latest product news, or subscribe to RSS to be the first to know w...",
+      "date": "2025-07-10",
+      "description": "Release NotesKeep up with Figma’s latest product news, or subscribe to RSS to be the first to know when new releases and updates go live.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Keep up with Figma’s latest product news, or subscribe to RSS to be the first to know when new relea...",
+      "date": "2025-07-10",
+      "description": "Keep up with Figma’s latest product news, or subscribe to RSS to be the first to know when new releases and updates go live.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jul 9, 2025New feature: Apex domains and custom subdomains in Figma SitesUpdateFigma SitesWebsitesCo...",
+      "date": "2025-07-10",
+      "description": "Jul 9, 2025New feature: Apex domains and custom subdomains in Figma SitesUpdateFigma SitesWebsitesCopy link",
+      "tags": [
+        "Figma Sites",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Sites",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "UpdateFigma SitesWebsites",
+      "date": "2025-07-10",
+      "description": "UpdateFigma SitesWebsites",
+      "tags": [
+        "Figma Sites"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Sites"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma Sites now supports apex domains and custom subdomains so that you have more options for person...",
+      "date": "2025-07-10",
+      "description": "Figma Sites now supports apex domains and custom subdomains so that you have more options for personalizing your URL.Apex domain: Connect root domains (like example.com) to your Figma Site, with optional redirects between apex domains and www subdomains. Custom subdomain: Personalize your URL like yourname.figma.site and make it easier to integrate with any existing domains.",
+      "tags": [
+        "Figma Sites",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Sites",
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Figma Sites now supports apex domains and custom subdomains so that you have more options for person...",
+      "date": "2025-07-10",
+      "description": "Figma Sites now supports apex domains and custom subdomains so that you have more options for personalizing your URL.",
+      "tags": [
+        "Figma Sites",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Sites",
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Apex domain: Connect root domains (like example.com) to your Figma Site, with optional redirects bet...",
+      "date": "2025-07-10",
+      "description": "Apex domain: Connect root domains (like example.com) to your Figma Site, with optional redirects between apex domains and www subdomains.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Custom subdomain: Personalize your URL like yourname.figma.site and make it easier to integrate with...",
+      "date": "2025-07-10",
+      "description": "Custom subdomain: Personalize your URL like yourname.figma.site and make it easier to integrate with any existing domains.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Learn more about setting up domains in Figma Sites here.",
+      "date": "2025-07-10",
+      "description": "Learn more about setting up domains in Figma Sites here.",
+      "tags": [
+        "Figma Sites",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Sites",
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jul 8, 2025Improved control with new updates to grid betaNew releaseUpdateBetaFigmaDesignCopy link",
+      "date": "2025-07-10",
+      "description": "Jul 8, 2025Improved control with new updates to grid betaNew releaseUpdateBetaFigmaDesignCopy link",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "New releaseUpdateBetaFigmaDesign",
+      "date": "2025-07-10",
+      "description": "New releaseUpdateBetaFigmaDesign",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jul 8, 2025Improved control with new updates to grid betaNew releaseUpdateBetaFigmaDesignCopy linkIn...",
+      "date": "2025-07-10",
+      "description": "Jul 8, 2025Improved control with new updates to grid betaNew releaseUpdateBetaFigmaDesignCopy linkIntroducing new updates to grid that offers more precision and control:Delete rows and columns. Easily delete columns and rows on canvas. Set min and max. Resize grids with min and max settings for grids and objects within grids.Adjust multiple grids. Update multiple grids with a faster grid picker.",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "performance",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Introducing new updates to grid that offers more precision and control:Delete rows and columns. Easi...",
+      "date": "2025-07-10",
+      "description": "Introducing new updates to grid that offers more precision and control:Delete rows and columns. Easily delete columns and rows on canvas. Set min and max. Resize grids with min and max settings for grids and objects within grids.Adjust multiple grids. Update multiple grids with a faster grid picker.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Introducing new updates to grid that offers more precision and control:",
+      "date": "2025-07-10",
+      "description": "Introducing new updates to grid that offers more precision and control:",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Delete rows and columns. Easily delete columns and rows on canvas.",
+      "date": "2025-07-10",
+      "description": "Delete rows and columns. Easily delete columns and rows on canvas.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Adjust multiple grids. Update multiple grids with a faster grid picker.",
+      "date": "2025-07-10",
+      "description": "Adjust multiple grids. Update multiple grids with a faster grid picker.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jul 1, 2025Dev Mode MCP Server Updates: Annotations and Code Connect SnippetsUpdateDev ModeAIDesktop...",
+      "date": "2025-07-10",
+      "description": "Jul 1, 2025Dev Mode MCP Server Updates: Annotations and Code Connect SnippetsUpdateDev ModeAIDesktop appDevelopmentMCPCopy link",
+      "tags": [
+        "Dev Mode",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Dev Mode",
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "UpdateDev ModeAIDesktop appDevelopmentMCP",
+      "date": "2025-07-10",
+      "description": "UpdateDev ModeAIDesktop appDevelopmentMCP",
+      "tags": [
+        "Dev Mode",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Dev Mode",
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "We recently updated the get_code tool in our MCP server to support the following:",
+      "date": "2025-07-10",
+      "description": "We recently updated the get_code tool in our MCP server to support the following:",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Code Connect Snippets - Get even more Code Connect information in your responses. We now return both...",
+      "date": "2025-07-10",
+      "description": "Code Connect Snippets - Get even more Code Connect information in your responses. We now return both the component name and the full code snippet for the selected components.",
+      "tags": [
+        "Components"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Components"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jun 26, 2025Variable width strokesNew releaseFigmaFigma DrawDesignCopy link",
+      "date": "2025-07-10",
+      "description": "Jun 26, 2025Variable width strokesNew releaseFigmaFigma DrawDesignCopy link",
+      "tags": [
+        "Design",
+        "Figma Draw"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Figma Draw"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "New releaseFigmaFigma DrawDesign",
+      "date": "2025-07-10",
+      "description": "New releaseFigmaFigma DrawDesign",
+      "tags": [
+        "Design",
+        "Figma Draw"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Figma Draw"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "You can now adjust the width of your stroke at any given point along a path with the new variable wi...",
+      "date": "2025-07-10",
+      "description": "You can now adjust the width of your stroke at any given point along a path with the new variable width stroke vector editing tool. Available in Figma Draw and Figma Design. Learn more in this help center article.",
+      "tags": [
+        "Design",
+        "Figma Draw",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Figma Draw",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Variable width stroke also makes it possible for users to draw with pressure sensitivity on tablets....",
+      "date": "2025-07-10",
+      "description": "Variable width stroke also makes it possible for users to draw with pressure sensitivity on tablets. Figma will set the stroke width to reflect the amount of pressure applied at each point when drawing with a stylus, which makes freehand drawing in Figma more realistic.",
+      "tags": [
+        "Figma Draw"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Draw"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jun 25, 2025Bring a consistent look and feel to your Figma Make prototypes and web appsNew releaseFi...",
+      "date": "2025-07-10",
+      "description": "Jun 25, 2025Bring a consistent look and feel to your Figma Make prototypes and web appsNew releaseFigma MakeDesign systemsPrototypingCopy link",
+      "tags": [
+        "Design",
+        "Prototyping"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Prototyping"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "New releaseFigma MakeDesign systemsPrototyping",
+      "date": "2025-07-10",
+      "description": "New releaseFigma MakeDesign systemsPrototyping",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jun 18, 2025Never miss a beat with browser notifications from FigmaUpdateFigmaCollaborationCopy link",
+      "date": "2025-07-10",
+      "description": "Jun 18, 2025Never miss a beat with browser notifications from FigmaUpdateFigmaCollaborationCopy link",
+      "tags": [
+        "Collaboration"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Collaboration"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "UpdateFigmaCollaboration",
+      "date": "2025-07-10",
+      "description": "UpdateFigmaCollaboration",
+      "tags": [
+        "Collaboration"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Collaboration"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "You can now opt-in to receive push notifications from Figma in your browser, the same way you do in ...",
+      "date": "2025-07-10",
+      "description": "You can now opt-in to receive push notifications from Figma in your browser, the same way you do in Figma’s desktop app. Once you allow Figma to send you notifications in the browser, you will be alerted to comment replies, @ mentions in comments, and @ mentions in the file (i.e. on a sticky in FigJam) in real time.",
+      "tags": [
+        "FigJam"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "FigJam"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jun 12, 2025New feature: Code layers in Figma SitesNew releaseFigmaDesignDevelopmentPrototypingCopy ...",
+      "date": "2025-07-10",
+      "description": "Jun 12, 2025New feature: Code layers in Figma SitesNew releaseFigmaDesignDevelopmentPrototypingCopy link",
+      "tags": [
+        "Design",
+        "Figma Sites"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Figma Sites"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "New releaseFigmaDesignDevelopmentPrototyping",
+      "date": "2025-07-10",
+      "description": "New releaseFigmaDesignDevelopmentPrototyping",
+      "tags": [
+        "Design"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "You can now add custom interactions and animations to your Figma Sites using code layers.",
+      "date": "2025-07-10",
+      "description": "You can now add custom interactions and animations to your Figma Sites using code layers.",
+      "tags": [
+        "Figma Sites"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Sites"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Code layers let you create, edit, and manage live code in your site. Use built-in AI chat or write y...",
+      "date": "2025-07-10",
+      "description": "Code layers let you create, edit, and manage live code in your site. Use built-in AI chat or write your own code with React, TypeScript, and Tailwind support.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Examples of code layers:",
+      "date": "2025-07-10",
+      "description": "Examples of code layers:",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Jun 4, 2025Dev Mode MCP Server in betaNew releaseDev ModeAIDesktop appDevelopmentCopy link",
+      "date": "2025-07-10",
+      "description": "Jun 4, 2025Dev Mode MCP Server in betaNew releaseDev ModeAIDesktop appDevelopmentCopy link",
+      "tags": [
+        "Dev Mode",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Dev Mode",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "New releaseDev ModeAIDesktop appDevelopment",
+      "date": "2025-07-10",
+      "description": "New releaseDev ModeAIDesktop appDevelopment",
+      "tags": [
+        "Dev Mode",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Dev Mode",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Introducing the official Figma Dev Mode MCP server. Users can now bring design information directly ...",
+      "date": "2025-07-10",
+      "description": "Introducing the official Figma Dev Mode MCP server. Users can now bring design information directly into their code editors, like Cursor, VS Code with Copilot, Windsurf, and Claude Code, to help AI agents achieve design-informed code generation. With this new MCP server you can now:",
+      "tags": [
+        "Design",
+        "Dev Mode",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Dev Mode",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Generate code from selected frames - Select a frame in Figma and have an AI agent turn it into code.",
+      "date": "2025-07-10",
+      "description": "Generate code from selected frames - Select a frame in Figma and have an AI agent turn it into code.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Extract design context - pull out variables, components, and layouts from a design to ensure builds ...",
+      "date": "2025-07-10",
+      "description": "Extract design context - pull out variables, components, and layouts from a design to ensure builds adhere to design patterns.",
+      "tags": [
+        "Design",
+        "Components"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "Components"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Code smarter with Code Connect - Boost output quality by reusing your actual components, the MCP ser...",
+      "date": "2025-07-10",
+      "description": "Code smarter with Code Connect - Boost output quality by reusing your actual components, the MCP server informs AI agents about existing components derived from Code Connect information.",
+      "tags": [
+        "AI",
+        "Components"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "AI",
+          "Components"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "ProductFigma DesignDev ModeFigJamFigma SlidesFigma DrawNewFigma BuzzBetaFigma SitesBetaFigma MakeBet...",
+      "date": "2025-07-10",
+      "description": "ProductFigma DesignDev ModeFigJamFigma SlidesFigma DrawNewFigma BuzzBetaFigma SitesBetaFigma MakeBetaAIDownloadsRelease notesPlansPricingEnterpriseOrganizationProfessional",
+      "tags": [
+        "Design",
+        "FigJam",
+        "Dev Mode",
+        "Figma Sites",
+        "Figma Slides",
+        "Figma Draw",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "FigJam",
+          "Dev Mode",
+          "Figma Sites",
+          "Figma Slides",
+          "Figma Draw",
+          "AI"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "ProductFigma DesignDev ModeFigJamFigma SlidesFigma DrawNewFigma BuzzBetaFigma SitesBetaFigma MakeBet...",
+      "date": "2025-07-10",
+      "description": "ProductFigma DesignDev ModeFigJamFigma SlidesFigma DrawNewFigma BuzzBetaFigma SitesBetaFigma MakeBetaAIDownloadsRelease notes",
+      "tags": [
+        "Design",
+        "FigJam",
+        "Dev Mode",
+        "Figma Sites",
+        "Figma Slides",
+        "Figma Draw",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "FigJam",
+          "Dev Mode",
+          "Figma Sites",
+          "Figma Slides",
+          "Figma Draw",
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "Use casesUI designUX designWireframingDiagrammingPrototypingBrainstormingPresentation MakerOnline wh...",
+      "date": "2025-07-10",
+      "description": "Use casesUI designUX designWireframingDiagrammingPrototypingBrainstormingPresentation MakerOnline whiteboardAgileStrategic planningMind mappingOnline sticky notesConcept map",
+      "tags": [
+        "Design",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Design",
+          "AI"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "CompareSketchAdobe XDFramerMiroCompanyEventsCustomersCareersNewsroom",
+      "date": "2025-07-10",
+      "description": "CompareSketchAdobe XDFramerMiroCompanyEventsCustomersCareersNewsroom",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    },
+    {
+      "title": "CompanyEventsCustomersCareersNewsroom",
+      "date": "2025-07-10",
+      "description": "CompanyEventsCustomersCareersNewsroom",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "figma-fallback-entry",
+        "affectedServices": [
+          "Figma Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.figma.com/release-notes/"
+    }
+  ],
+  "lastScraped": "2025-07-10T23:51:01.408Z",
+  "success": true
+}

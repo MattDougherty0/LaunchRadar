@@ -1,0 +1,1342 @@
+{
+  "competitor": "notion",
+  "updates": [
+    {
+      "title": "Notion 2.52: Everything is database",
+      "date": "July 10, 2025",
+      "description": "From clearer names and cleaner tables to simpler settings, gentler visuals, and fewer distractions, databases just got much simpler! The new “+ property” makes naming and picking a property much smoother. You can now group, insert, or rename properties right from the property menu. Web, desktop, mobile—all refreshed! See the full list of updates.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Databases got a makeover",
+      "date": "2025-07-10",
+      "description": "From clearer names and cleaner tables to simpler settings, gentler visuals, and fewer distractions, databases just got much simpler! The new “+ property” makes naming and picking a property much smoother. You can now group, insert, or rename properties right from the property menu. Web, desktop, mobile—all refreshed! See the full list of updates.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.51: AI Meeting Notes, Enterprise Search & more",
+      "date": "May 13, 2025",
+      "description": "Notion AI for work",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.50: Meet Notion Mail",
+      "date": "April 15, 2025",
+      "description": "Notion 2.50: Meet Notion Mail",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.49: Page verification, Notion Forms with conditional logic, and more!",
+      "date": "March 26, 2025",
+      "description": "Notion 2.49: Page verification, Notion Forms with conditional logic, and more!",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.48: Set up Notion in one click, Calendar updates, and more",
+      "date": "February 18, 2025",
+      "description": "Notion 2.48: Set up Notion in one click, Calendar updates, and more.",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "2.47: More automations, answers from GitHub, and easy Calendar scheduling",
+      "date": "December 5, 2024",
+      "description": "2.47: More automations, answers from GitHub, and easy Calendar scheduling",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.46: Forms, Mail, layouts, new automations, and more!",
+      "date": "October 24, 2024",
+      "description": "Notion 2.46: Forms, layouts, new automations, and more!",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.45: Meet the new Notion AI",
+      "date": "September 25, 2024",
+      "description": "One tool that does it all. Search, generate, analyze, and chat—right inside Notion.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.44: Introducing charts + a sneak peek at forms",
+      "date": "August 13, 2024",
+      "description": "Notion 2.44: Introducing charts + a sneak peek at forms",
+      "tags": [],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.43: Suggested edits + new Notion AI features",
+      "date": "July 29, 2024",
+      "description": "Notion 2.43: Suggested edits are here + new Notion AI features",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.85,
+      "metadata": {
+        "sourceSection": "notion-releases",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "FeaturesNotion AIBuild, write, automateDocsSimple & powerfulWikisCentralize your knowledgeProjectsMa...",
+      "date": "2025-07-10",
+      "description": "FeaturesNotion AIBuild, write, automateDocsSimple & powerfulWikisCentralize your knowledgeProjectsManage any project",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion AIBuild, write, automateDocsSimple & powerfulWikisCentralize your knowledgeProjectsManage any...",
+      "date": "2025-07-10",
+      "description": "Notion AIBuild, write, automateDocsSimple & powerfulWikisCentralize your knowledgeProjectsManage any project",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion AIBuild, write, automate",
+      "date": "2025-07-10",
+      "description": "Notion AIBuild, write, automate",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Enterprise SearchNewFind answers instantlyAI Meeting NotesNewPerfectly written by AIFormsResponses a...",
+      "date": "2025-07-10",
+      "description": "Enterprise SearchNewFind answers instantlyAI Meeting NotesNewPerfectly written by AIFormsResponses and requestsSitesPublish anything, fast",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Enterprise SearchNewFind answers instantly",
+      "date": "2025-07-10",
+      "description": "Enterprise SearchNewFind answers instantly",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "AI Meeting NotesNewPerfectly written by AI",
+      "date": "2025-07-10",
+      "description": "AI Meeting NotesNewPerfectly written by AI",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Get startedBrowse marketplaceTemplates for everythingView integrationsConnect your apps with NotionD...",
+      "date": "2025-07-10",
+      "description": "Get startedBrowse marketplaceTemplates for everythingView integrationsConnect your apps with NotionDownload web clipperSave from the web into Notion",
+      "tags": [
+        "Templates",
+        "Integrations"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates",
+          "Integrations"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Browse marketplaceTemplates for everythingView integrationsConnect your apps with NotionDownload web...",
+      "date": "2025-07-10",
+      "description": "Browse marketplaceTemplates for everythingView integrationsConnect your apps with NotionDownload web clipperSave from the web into Notion",
+      "tags": [
+        "Templates",
+        "Integrations"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates",
+          "Integrations"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Browse marketplaceTemplates for everything",
+      "date": "2025-07-10",
+      "description": "Browse marketplaceTemplates for everything",
+      "tags": [
+        "Templates"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Templates for everything",
+      "date": "2025-07-10",
+      "description": "Templates for everything",
+      "tags": [
+        "Templates"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "View integrationsConnect your apps with Notion",
+      "date": "2025-07-10",
+      "description": "View integrationsConnect your apps with Notion",
+      "tags": [
+        "Integrations"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Integrations"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Connect your apps with Notion",
+      "date": "2025-07-10",
+      "description": "Connect your apps with Notion",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Download web clipperSave from the web into Notion",
+      "date": "2025-07-10",
+      "description": "Download web clipperSave from the web into Notion",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Save from the web into Notion",
+      "date": "2025-07-10",
+      "description": "Save from the web into Notion",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Try the Notion desktop app for a faster experienceDownload app",
+      "date": "2025-07-10",
+      "description": "Try the Notion desktop app for a faster experienceDownload app",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Try the Notion desktop app for a faster experience",
+      "date": "2025-07-10",
+      "description": "Try the Notion desktop app for a faster experience",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "ExploreTeamsEng & ProductDesignMarketingITTeam sizeStartupsSMBsEnterpriseEducationLearnHelp centerCu...",
+      "date": "2025-07-10",
+      "description": "ExploreTeamsEng & ProductDesignMarketingITTeam sizeStartupsSMBsEnterpriseEducationLearnHelp centerCustomer storiesBlogCommunityBuildAPITemplatesSecurityConsultants",
+      "tags": [
+        "Templates",
+        "API"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates",
+          "API"
+        ]
+      },
+      "type": "security",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "TeamsEng & ProductDesignMarketingITTeam sizeStartupsSMBsEnterpriseEducationLearnHelp centerCustomer ...",
+      "date": "2025-07-10",
+      "description": "TeamsEng & ProductDesignMarketingITTeam sizeStartupsSMBsEnterpriseEducationLearnHelp centerCustomer storiesBlogCommunityBuildAPITemplatesSecurityConsultants",
+      "tags": [
+        "Templates",
+        "API"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates",
+          "API"
+        ]
+      },
+      "type": "security",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "BuildAPITemplatesSecurityConsultants",
+      "date": "2025-07-10",
+      "description": "BuildAPITemplatesSecurityConsultants",
+      "tags": [
+        "Templates",
+        "API"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates",
+          "API"
+        ]
+      },
+      "type": "security",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "APITemplatesSecurityConsultants",
+      "date": "2025-07-10",
+      "description": "APITemplatesSecurityConsultants",
+      "tags": [
+        "Templates",
+        "API"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates",
+          "API"
+        ]
+      },
+      "type": "security",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Log inGet Notion free",
+      "date": "2025-07-10",
+      "description": "Log inGet Notion free",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "What’s NewFollow @NotionHQ",
+      "date": "2025-07-10",
+      "description": "What’s NewFollow @NotionHQ",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.52: Everything is database",
+      "date": "2025-07-10",
+      "description": "Notion 2.52: Everything is database",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Databases got a makeover",
+      "date": "2025-07-10",
+      "description": "Databases got a makeover",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "From clearer names and cleaner tables to simpler settings, gentler visuals, and fewer distractions, ...",
+      "date": "2025-07-10",
+      "description": "From clearer names and cleaner tables to simpler settings, gentler visuals, and fewer distractions, databases just got much simpler! The new “+ property” makes naming and picking a property much smoother. You can now group, insert, or rename properties right from the property menu. Web, desktop, mobile—all refreshed! See the full list of updates.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "See the full list of updates",
+      "date": "2025-07-10",
+      "description": "See the full list of updates",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "New Feed view to review content",
+      "date": "2025-07-10",
+      "description": "New Feed view to review content",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Like turning your database into a blog feed! Use it to scroll through status updates, user research,...",
+      "date": "2025-07-10",
+      "description": "Like turning your database into a blog feed! Use it to scroll through status updates, user research, bug reports, and more—then add comments and emoji reactions. 👀",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "bugfix",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Just add a new view to your database and select Feed.",
+      "date": "2025-07-10",
+      "description": "Just add a new view to your database and select Feed.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Chat with your database in research mode",
+      "date": "2025-07-10",
+      "description": "Chat with your database in research mode",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Now Notion AI can answer extra-complex questions about your databases, drawing info from across prop...",
+      "date": "2025-07-10",
+      "description": "Now Notion AI can answer extra-complex questions about your databases, drawing info from across properties and any notes inside your database pages. For example, “Which accounts in @Sales CRM have call notes that mention European data residency?”",
+      "tags": [
+        "Database",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database",
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Try it by going to Home, selecting the Research tab, and @-mention a database in your question.",
+      "date": "2025-07-10",
+      "description": "Try it by going to Home, selecting the Research tab, and @-mention a database in your question.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Database row permissions (coming soon)",
+      "date": "2025-07-10",
+      "description": "Database row permissions (coming soon)",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion’s #2 most requested feature is nearly here! (#1 is offline mode, also coming !) You’ll be abl...",
+      "date": "2025-07-10",
+      "description": "Notion’s #2 most requested feature is nearly here! (#1 is offline mode, also coming !) You’ll be able to grant permissions by database row. The person assigned to those database pages won’t be able to see the rest of the database. Stay tuned.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Have 17,362 messages in your Gmail inbox? Notion AI can help. Search through older archives and new ...",
+      "date": "2025-07-10",
+      "description": "Have 17,362 messages in your Gmail inbox? Notion AI can help. Search through older archives and new emails to get the latest updates on a project or summarize a long thread. We maintain strict privacy controls, so each user can only see their own inbox. Available on Business and Enterprise plans.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Managing projects in Linear? Notion AI can now search those projects and issues—including titles, as...",
+      "date": "2025-07-10",
+      "description": "Managing projects in Linear? Notion AI can now search those projects and issues—including titles, assignees, creators, and comments. Ask questions like, “What blockers are assigned to me this week?” and get instant answers with citations, all while respecting your Linear permissions. Available on Business and Enterprise plans.",
+      "tags": [
+        "Blocks",
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Blocks",
+          "AI"
+        ]
+      },
+      "type": "bugfix",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Build with Replit, manage with Notion",
+      "date": "2025-07-10",
+      "description": "Build with Replit, manage with Notion",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Vibe coding continues to amaze us. Now you can connect your apps and websites to a Notion database t...",
+      "date": "2025-07-10",
+      "description": "Vibe coding continues to amaze us. Now you can connect your apps and websites to a Notion database to manage all the content: visual assets, posts, and tasks. Check out this Replit demo.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Now you can select which Notion Property Type you want to use for each CSV column, making imports so...",
+      "date": "2025-07-10",
+      "description": "Now you can select which Notion Property Type you want to use for each CSV column, making imports so much tidier! Simply upload and create a new database or merge your CSV with an existing database.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Lots of improvements!",
+      "date": "2025-07-10",
+      "description": "Lots of improvements!",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Databases are way easier to use on mobile. Tap, view, edit, or create filters with a couple flicks o...",
+      "date": "2025-07-10",
+      "description": "Databases are way easier to use on mobile. Tap, view, edit, or create filters with a couple flicks of your thumb.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Manage any Notion database in Notion Calendar if it includes dates. Just click into the view and sel...",
+      "date": "2025-07-10",
+      "description": "Manage any Notion database in Notion Calendar if it includes dates. Just click into the view and select Open in Calendar. Great for tracking deadlines.",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Manage any Notion database in Notion Calendar if it includes dates. Just click into the view and sel...",
+      "date": "2025-07-10",
+      "description": "Manage any Notion database in Notion Calendar if it includes dates. Just click into the view and select",
+      "tags": [
+        "Database"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Database"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Search your PDFs in Notion, Google Drive, SharePoint and OneDrive with Enterprise Search!",
+      "date": "2025-07-10",
+      "description": "Search your PDFs in Notion, Google Drive, SharePoint and OneDrive with Enterprise Search!",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Join us!We’re hiring across engineering, sales, marketing & more! Help us build the future of Notion...",
+      "date": "2025-07-10",
+      "description": "Join us!We’re hiring across engineering, sales, marketing & more! Help us build the future of Notion.notion.so/careers",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "We’re hiring across engineering, sales, marketing & more! Help us build the future of Notion.notion....",
+      "date": "2025-07-10",
+      "description": "We’re hiring across engineering, sales, marketing & more! Help us build the future of Notion.notion.so/careers",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "We’re hiring across engineering, sales, marketing & more! Help us build the future of Notion.",
+      "date": "2025-07-10",
+      "description": "We’re hiring across engineering, sales, marketing & more! Help us build the future of Notion.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "May 13, 2025Notion 2.51: AI Meeting Notes, Enterprise Search & moreNotion AI for work",
+      "date": "2025-07-10",
+      "description": "May 13, 2025Notion 2.51: AI Meeting Notes, Enterprise Search & moreNotion AI for work",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.51: AI Meeting Notes, Enterprise Search & more",
+      "date": "2025-07-10",
+      "description": "Notion 2.51: AI Meeting Notes, Enterprise Search & more",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "April 15, 2025Notion 2.50: Meet Notion MailNotion 2.50: Meet Notion Mail",
+      "date": "2025-07-10",
+      "description": "April 15, 2025Notion 2.50: Meet Notion MailNotion 2.50: Meet Notion Mail",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.50: Meet Notion Mail",
+      "date": "2025-07-10",
+      "description": "Notion 2.50: Meet Notion Mail",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "March 26, 2025Notion 2.49: Page verification, Notion Forms with conditional logic, and more!Notion 2...",
+      "date": "2025-07-10",
+      "description": "March 26, 2025Notion 2.49: Page verification, Notion Forms with conditional logic, and more!Notion 2.49: Page verification, Notion Forms with conditional logic, and more!",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.49: Page verification, Notion Forms with conditional logic, and more!",
+      "date": "2025-07-10",
+      "description": "Notion 2.49: Page verification, Notion Forms with conditional logic, and more!",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "February 18, 2025Notion 2.48: Set up Notion in one click, Calendar updates, and moreNotion 2.48: Set...",
+      "date": "2025-07-10",
+      "description": "February 18, 2025Notion 2.48: Set up Notion in one click, Calendar updates, and moreNotion 2.48: Set up Notion in one click, Calendar updates, and more.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.48: Set up Notion in one click, Calendar updates, and more",
+      "date": "2025-07-10",
+      "description": "Notion 2.48: Set up Notion in one click, Calendar updates, and more",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.48: Set up Notion in one click, Calendar updates, and more.",
+      "date": "2025-07-10",
+      "description": "Notion 2.48: Set up Notion in one click, Calendar updates, and more.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "October 24, 2024Notion 2.46: Forms, Mail, layouts, new automations, and more!Notion 2.46: Forms, lay...",
+      "date": "2025-07-10",
+      "description": "October 24, 2024Notion 2.46: Forms, Mail, layouts, new automations, and more!Notion 2.46: Forms, layouts, new automations, and more!",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.46: Forms, Mail, layouts, new automations, and more!",
+      "date": "2025-07-10",
+      "description": "Notion 2.46: Forms, Mail, layouts, new automations, and more!",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.46: Forms, layouts, new automations, and more!",
+      "date": "2025-07-10",
+      "description": "Notion 2.46: Forms, layouts, new automations, and more!",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "September 25, 2024Notion 2.45: Meet the new Notion AIOne tool that does it all. Search, generate, an...",
+      "date": "2025-07-10",
+      "description": "September 25, 2024Notion 2.45: Meet the new Notion AIOne tool that does it all. Search, generate, analyze, and chat—right inside Notion.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.45: Meet the new Notion AI",
+      "date": "2025-07-10",
+      "description": "Notion 2.45: Meet the new Notion AI",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "One tool that does it all. Search, generate, analyze, and chat—right inside Notion.",
+      "date": "2025-07-10",
+      "description": "One tool that does it all. Search, generate, analyze, and chat—right inside Notion.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "August 13, 2024Notion 2.44: Introducing charts + a sneak peek at formsNotion 2.44: Introducing chart...",
+      "date": "2025-07-10",
+      "description": "August 13, 2024Notion 2.44: Introducing charts + a sneak peek at formsNotion 2.44: Introducing charts + a sneak peek at forms",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.44: Introducing charts + a sneak peek at forms",
+      "date": "2025-07-10",
+      "description": "Notion 2.44: Introducing charts + a sneak peek at forms",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "July 29, 2024Notion 2.43: Suggested edits + new Notion AI featuresNotion 2.43: Suggested edits are h...",
+      "date": "2025-07-10",
+      "description": "July 29, 2024Notion 2.43: Suggested edits + new Notion AI featuresNotion 2.43: Suggested edits are here + new Notion AI features",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.43: Suggested edits + new Notion AI features",
+      "date": "2025-07-10",
+      "description": "Notion 2.43: Suggested edits + new Notion AI features",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "Notion 2.43: Suggested edits are here + new Notion AI features",
+      "date": "2025-07-10",
+      "description": "Notion 2.43: Suggested edits are here + new Notion AI features",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "feature",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "English (US)English (US)English (US)Français (France)French (France)DeutschGerman日本語Japanese한국어Korea...",
+      "date": "2025-07-10",
+      "description": "English (US)English (US)English (US)Français (France)French (France)DeutschGerman日本語Japanese한국어KoreanPortuguês (Brasil)Portuguese (Brazil)简体中文Simplified ChineseEspañol (Latinoamérica)Spanish (Latin America)Español (España)Spanish (Spain)繁體中文Traditional ChineseDo Not Sell or Share My InfoCookie settings© 2025 Notion Labs, Inc.",
+      "tags": [
+        "AI"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "AI"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "© 2025 Notion Labs, Inc.",
+      "date": "2025-07-10",
+      "description": "© 2025 Notion Labs, Inc.",
+      "tags": [],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Notion Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://www.notion.so/releases"
+    },
+    {
+      "title": "CompanyAbout usCareersSecurityStatusTerms & privacyYour privacy rightsDownloadiOS & AndroidMac & Win...",
+      "date": "2025-07-10",
+      "description": "CompanyAbout usCareersSecurityStatusTerms & privacyYour privacy rightsDownloadiOS & AndroidMac & WindowsCalendarWeb ClipperResourcesHelp centerPricingBlogCommunityIntegrationsTemplatesAffiliatesNotion forEnterpriseSmall businessPersonalExplore more→",
+      "tags": [
+        "Templates",
+        "Integrations"
+      ],
+      "confidence": 0.6,
+      "metadata": {
+        "sourceSection": "notion-fallback-entry",
+        "affectedServices": [
+          "Templates",
+          "Integrations"
+        ]
+      },
+      "type": "security",
+      "url": "https://www.notion.so/releases"
+    }
+  ],
+  "lastScraped": "2025-07-10T23:51:01.409Z",
+  "success": true
+}

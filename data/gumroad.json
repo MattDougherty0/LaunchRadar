@@ -1,0 +1,895 @@
+{
+  "competitor": "gumroad",
+  "updates": [
+    {
+      "title": "UPDATED: OSS Hackathon extended to Sept 15 + $100k grand prize! 🚀",
+      "date": "2025-07-10",
+      "description": "May 8, 2025",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "LifeMathMoney: How I launched my product and grew a following",
+      "date": "2025-07-10",
+      "description": "In this post, Harsh Strongman, creator of LifeMathMoney, shares the strategies that helped him build a successful platform for men’s self-improvement. From overcoming challenges to launching...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "New on Gumroad: Communities, installment plans, and more",
+      "date": "2025-07-10",
+      "description": "April 8, 2025",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "💥Open-source, Hackathon, and Gumroad's 14th Birthday—oh my!",
+      "date": "2025-07-10",
+      "description": "Hey creators, We're counting down the days to our birthday on April 4th, and we have some exciting news to share! 🚀 We're going open sourceWe’re thrilled to announce that we will open source...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "What we shipped in February: gum.new, testimonials, audio previews, and UTM links",
+      "date": "2025-07-10",
+      "description": "March 6, 2025",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "🎉 Celebrating Gumroad's 13th Year: 2024 Feature Roundup ✨",
+      "date": "2025-07-10",
+      "description": "January 6, 2025",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Gumroad is becoming a Merchant of Record (+ more updates!)",
+      "date": "2025-07-10",
+      "description": "Hey Creator! I hope this email finds you well. We're excited to announce some major improvements to Gumroad that will make selling your digital products even easier in 2025 and beyond. The Big...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "🆕 Instant Payouts!",
+      "date": "2025-07-10",
+      "description": "Excited to launch instant payouts on Gumroad! 💸 Now you can get paid within minutes (3% fee, up to $10K). Perfect for creators who need their earnings ASAP. Available in all supported countries -...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "📢 New: Boost Your Sales with Built-in Upsells (+ Important PayPal Update)",
+      "date": "2025-07-10",
+      "description": "October 29, 2024",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "One-on-One Calls: A New Way to Earn on Gumroad",
+      "date": "2025-07-10",
+      "description": "August 19, 2024",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "A new product type appears: ☕️!",
+      "date": "2025-07-10",
+      "description": "July 30, 2024",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "NEW: Bulk-review your favorite products!",
+      "date": "2025-07-10",
+      "description": "May 28, 2024",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "NEW: Abandoned cart workflows!",
+      "date": "2025-07-10",
+      "description": "May 20, 2024",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "New sections for your Gumroad!",
+      "date": "2025-07-10",
+      "description": "You can now feature products, add rich text, and remind people to subscribe to your email newsletter–all within your Gumroad profile. Here's an example of what's now possible: We're super excited...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Q1 2024 Gumroad update - Profile sections, product bundles, and more!",
+      "date": "2025-07-10",
+      "description": "February 19, 2024",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Gumroad's Q3 2023 update!",
+      "date": "2025-07-10",
+      "description": "November 22, 2023",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "NEW: Provide evidence for disputes",
+      "date": "2025-07-10",
+      "description": "On top of the evidence Gumroad compiles, creators can now submit their own evidence when fighting a credit card dispute–doing so should increase win percentage! Happy winning! Best, Sahil and the...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "TONS of new Gumroad features",
+      "date": "2025-07-10",
+      "description": "I hope you're doing well and enjoying your creative journey with us at Gumroad. We're always striving to improve and simplify your experience, and today, I'm thrilled to share some brand new...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "🆕 feature: Upsells 2.0—Recommend upgrades to products already in-cart",
+      "date": "2025-07-10",
+      "description": "August 7, 2023",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "New Discount Code Features on Gumroad",
+      "date": "2025-07-10",
+      "description": "July 19, 2023",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "New feature: Archive your products",
+      "date": "2025-07-10",
+      "description": "July 3, 2023",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "🆕 One-click upsells and cross-sells! Finally.",
+      "date": "2025-07-10",
+      "description": "We've been promising this feature for a long time, and it's finally here. You can add one-click upsells and cross-sells to the Gumroad checkout experience. It's pretty slick: Upsells refer to...",
+      "tags": [
+        "Checkout"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Checkout"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Introducing: Teams support",
+      "date": "2025-07-10",
+      "description": "I was able to write this post from the Gumroad account, without having to logout from my personal account. That's because of our newest feature, which introduces the concept of Team members. You...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Gumroad + Discord: Auto-add new customers",
+      "date": "2025-07-10",
+      "description": "June 17, 2022",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "A lot of Gumroad updates!",
+      "date": "2025-07-10",
+      "description": "We're excited to share a bunch of new Gumroad updates with you today: Redesigned product editing and purchasingLinked images in postsCustom buttons in postsAutomatic membership renewal emails (sent...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Become ‘UnStuck’",
+      "date": "2025-07-10",
+      "description": "The first week is in the books on this new journey of ours. Much more to come! In this week’s newsletter we cover: Six podcasts to help you become UnStuck Creating a high-converting sales page...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "A new Gumroad launches this Black Friday. Get a sneak peek!",
+      "date": "2025-07-10",
+      "description": "November 22, 2021",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Are You Ready For Black Friday?",
+      "date": "2025-07-10",
+      "description": "Black Friday is days away… And if you’re scrambling to put together some last-minute strategies -- then you’ll find this newsletter valuable. If you didn’t know, we created a 1-hour crash course to...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "New Feature: Circle Community Integration",
+      "date": "2025-07-10",
+      "description": "November 13, 2021",
+      "tags": [
+        "Integrations"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Integrations"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "5 Ways To Grow Your Email List",
+      "date": "2025-07-10",
+      "description": "Happy Sunday, Creators! Another week of tinkering, building, and launching in the books. In this week’s newsletter, we cover: How to Build Your Email List The Minimalist Entrepreneur Book Giveaway...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "New, Simplified Pricing on Gumroad: Pay Less as You Earn More",
+      "date": "2025-07-10",
+      "description": "August 30, 2021",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "pricing",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Build A Social Media Growth Machine",
+      "date": "2025-07-10",
+      "description": "Happy Sunday, Creators! We've got a good one for you this week. In this week's newsletter, we cover: How to build a growth machine on social mediaOffering free trials to customersHow to build an...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Exciting News: You Can Now Organize Files in Folders",
+      "date": "2025-07-10",
+      "description": "August 12, 2021",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Use This Framework To Launch A Product",
+      "date": "2025-07-10",
+      "description": "Happy Sunday, creators! We have a value-packed newsletter for you today. We're going to cover: Blake Emal's framework for product launches Direct bank transfers to more EU countries How to optimize...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "How to master sending cold emails",
+      "date": "2025-07-10",
+      "description": "Another week in the books and another round of applause for the new creators! On Gumroad, this week alone: 12,061 creators earned something3,234 creators earned more than $100546 creators earned...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "The Gumroad Newsletter",
+      "date": "2025-07-10",
+      "description": "Welcome back! In this week’s newsletter you will learn: How Arvid Kahl went from a successful founder to a successful creator.This week’s new features.How to optimize your efforts within the...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Exciting News: We Now Accept Apple Pay!",
+      "date": "2025-07-10",
+      "description": "June 2, 2021",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "We're Starting a Weekly Newsletter!",
+      "date": "2025-07-10",
+      "description": "May 30, 2021",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "🆕 Issue partial refunds for membership payments",
+      "date": "2025-07-10",
+      "description": "(I believe we're the first creator economy platform to have this functionality! We plan on shipping a metric ton of membership features in 2021, so stay tuned for much more firsts to come!) Short...",
+      "tags": [
+        "Creator Tools",
+        "Payments"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools",
+          "Payments"
+        ]
+      },
+      "type": "bugfix",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "See the products you're an affiliate for, with a new dashboard",
+      "date": "2025-07-10",
+      "description": "April 1, 2021",
+      "tags": [
+        "Affiliates"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Affiliates"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Memberships: Send All Posts to Your Members",
+      "date": "2025-07-10",
+      "description": "We've added an option to Gumroad Memberships, to make all previous posts visible to new members: Turning it on will show all historical posts to all of your members: More is coming for Memberships...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Action Required: PayPal Connect Going Live Jan 1, 2021",
+      "date": "2025-07-10",
+      "description": "Dear Creators, A couple of months ago, we announced that due to changes in PayPal's terms of service, we would transition to having creators accept payments from customers directly to their PayPal...",
+      "tags": [
+        "Creator Tools",
+        "Payments"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools",
+          "Payments"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "PayPal Connect Going Live Jan 1, 2021",
+      "date": "2025-07-10",
+      "description": "Dear Creators, A couple of months ago, we announced that due to changes in PayPal's terms of service, we would transition to having creators accept payments from customers directly to their PayPal...",
+      "tags": [
+        "Creator Tools",
+        "Payments"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools",
+          "Payments"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Updated Payment Frequency Selector for Single-Tier Memberships",
+      "date": "2025-07-10",
+      "description": "December 9, 2020",
+      "tags": [
+        "Payments"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Payments"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Exploring Gumroad's New Look",
+      "date": "2025-07-10",
+      "description": "November 16, 2020",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "A Balance of Features",
+      "date": "2025-07-10",
+      "description": "One feature for web, one for mobile. Perfectly balanced... For the WebYour Gumroad library now automatically includes page counts for PDF documents. Using metadata like this and optional...",
+      "tags": [
+        "Mobile"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Mobile"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "A Sample of User Interface Quality Improvements",
+      "date": "2025-07-10",
+      "description": "November 4, 2020",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Feature Announcement: Description per File",
+      "date": "2025-07-10",
+      "description": "October 28, 2020",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Posts and Customers Update: Select Multiple Products, Versions, and Tiers",
+      "date": "2025-07-10",
+      "description": "October 5, 2020",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Connecting PayPal directly to your Gumroad account",
+      "date": "2025-07-10",
+      "description": "Due to changes in PayPal's policies, we are going to have to change how Gumroad helps creators collect payments via PayPal. Please read this post to understand the changes that are coming. We're...",
+      "tags": [
+        "Creator Tools",
+        "Payments"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools",
+          "Payments"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Subdomains!",
+      "date": "2025-07-10",
+      "description": "Every creator on Gumroad now gets their own subdomain, automagically! It's at yourusername.gumroad.com This is a step in the direction of making Gumroad profiles more customizable and full-featured...",
+      "tags": [
+        "Creator Tools"
+      ],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Creator Tools"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Reorder Tiers and Versions",
+      "date": "2025-07-10",
+      "description": "Sorry for the slowdown in emails. It’s a crazy time, and we are focusing on performance, bug fixes, and other small wins as we get closer to launching our next big features in July. It’s now...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "performance",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Update Customers' Variants/Versions/Tiers",
+      "date": "2025-07-10",
+      "description": "May 12, 2020",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Custom Delivery for All!",
+      "date": "2025-07-10",
+      "description": "Hey all, We've long had a feature we call \"Custom Delivery\" which lets you redirect customers (after a successful purchase) to your own URL instead of instead of hosting your product's files on...",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Three New Themes!",
+      "date": "2025-07-10",
+      "description": "February 4, 2020",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "feature",
+      "url": "https://gumroad.com/blog"
+    },
+    {
+      "title": "Send Missed Updates to Customers",
+      "date": "2025-07-10",
+      "description": "October 16, 2019",
+      "tags": [],
+      "confidence": 0.75,
+      "metadata": {
+        "sourceSection": "gumroad-blog",
+        "affectedServices": [
+          "Gumroad Platform"
+        ]
+      },
+      "type": "improvement",
+      "url": "https://gumroad.com/blog"
+    }
+  ],
+  "lastScraped": "2025-07-10T23:51:01.411Z",
+  "success": true
+}
