@@ -1,29 +1,9 @@
 # LaunchRadar
 
-A working prototype for tracking product updates from multiple companies in one place.
+A small dashboard for keeping up with product updates from companies I follow.
 
-**[View the live prototype](https://launch-radar-view.vercel.app/)**
+**[View it here](https://launch-radar-view.vercel.app/)**
 
-I built it because meaningful product changes are scattered across changelogs, release notes, press releases, and company posts. LaunchRadar puts those updates into a single feed that is easier to scan and compare.
+It pulls changelog and release updates into one timeline, with filters by company and update type.
 
-## Current prototype
-
-- Tracks 286 updates from Figma, Gumroad, Notion, Stripe, Supabase, and Vercel
-- Timeline and company views
-- Filters for features, pricing, bug fixes, improvements, security, and performance
-- Company-level activity summaries
-- Links back to the source material
-- Scraper and data pipeline for refreshing the feed
-
-## Tech
-
-- Next.js 16
-- React 19
-- TypeScript
-- Tailwind CSS
-
-## Run locally
-
-1. Run `npm install`.
-2. Run `npm run dev`.
-3. Open `http://localhost:3000`.
+Built with Next.js and TypeScript.
