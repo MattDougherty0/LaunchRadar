@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LaunchRadar
 
-## Getting Started
+A working prototype for tracking product updates from multiple companies in one place.
 
-First, run the development server:
+**[View the live prototype](https://launch-radar-view.vercel.app/)**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I built it because meaningful product changes are scattered across changelogs, release notes, press releases, and company posts. LaunchRadar puts those updates into a single feed that is easier to scan and compare.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Current prototype
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Tracks 286 updates from Figma, Gumroad, Notion, Stripe, Supabase, and Vercel
+- Timeline and company views
+- Filters for features, pricing, bug fixes, improvements, security, and performance
+- Company-level activity summaries
+- Links back to the source material
+- Scraper and data pipeline for refreshing the feed
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech
 
-## Learn More
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+## Run locally
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Run `npm install`.
+2. Run `npm run dev`.
+3. Open `http://localhost:3000`.
